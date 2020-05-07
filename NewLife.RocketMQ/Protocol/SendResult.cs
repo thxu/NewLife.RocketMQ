@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using NewLife.Collections;
+using NewLife.Common;
 
 namespace NewLife.RocketMQ.Protocol
 {

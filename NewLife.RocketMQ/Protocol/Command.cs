@@ -4,6 +4,7 @@ using System.IO;
 using NewLife.Collections;
 using NewLife.Data;
 using NewLife.Extension;
+using NewLife.IO;
 using NewLife.Log;
 using NewLife.Messaging;
 using NewLife.Serialization;

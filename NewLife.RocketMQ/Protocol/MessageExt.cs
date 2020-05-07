@@ -4,6 +4,7 @@ using System.IO;
 using System.Net;
 using NewLife.Collections;
 using NewLife.Data;
+using NewLife.IO;
 using NewLife.Serialization;
 
 namespace NewLife.RocketMQ.Protocol
