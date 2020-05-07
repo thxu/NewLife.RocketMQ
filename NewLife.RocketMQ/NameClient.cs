@@ -5,6 +5,7 @@ using NewLife.Net;
 using NewLife.RocketMQ.Client;
 using NewLife.RocketMQ.Protocol;
 using NewLife.Threading;
+using NewLife.Extension;
 
 namespace NewLife.RocketMQ
 {

@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 using NewLife.Collections;
+using NewLife.Extension;
 using NewLife.Log;
 
 namespace NewLife.RocketMQ.Protocol

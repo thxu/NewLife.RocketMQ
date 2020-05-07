@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Reflection;
 using System.Xml.Serialization;
+using NewLife.Extension;
 using NewLife.Reflection;
 
 namespace NewLife.RocketMQ.Protocol

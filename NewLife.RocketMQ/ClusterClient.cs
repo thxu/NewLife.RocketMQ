@@ -5,6 +5,7 @@ using System.Linq;
 using System.Security.Cryptography;
 using System.Threading;
 using System.Threading.Tasks;
+using NewLife.Extension;
 using NewLife.Log;
 using NewLife.Net;
 using NewLife.RocketMQ.Client;

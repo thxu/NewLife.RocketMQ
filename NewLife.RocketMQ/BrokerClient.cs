@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using NewLife.Extension;
 using NewLife.Net;
 using NewLife.RocketMQ.Protocol;
 using NewLife.Threading;

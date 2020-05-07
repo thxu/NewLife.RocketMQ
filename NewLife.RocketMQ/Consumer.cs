@@ -6,6 +6,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 using System.Xml.Serialization;
+using NewLife.Extension;
 using NewLife.Reflection;
 using NewLife.RocketMQ.Client;
 using NewLife.RocketMQ.Protocol;

@@ -3,6 +3,7 @@ using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
+using NewLife.Extension;
 using NewLife.Http;
 using NewLife.Log;
 using NewLife.RocketMQ.Protocol;
